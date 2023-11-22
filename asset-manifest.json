@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.fa4071bd.css",
-    "main.js": "/static/js/main.c5185f2f.js",
+    "main.js": "/static/js/main.c49e926f.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/peanut_run.png": "/static/media/peanut_run.03bff208ae4ea9b35faf.png",
     "index.html": "/index.html",
     "main.fa4071bd.css.map": "/static/css/main.fa4071bd.css.map",
-    "main.c5185f2f.js.map": "/static/js/main.c5185f2f.js.map",
+    "main.c49e926f.js.map": "/static/js/main.c49e926f.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa4071bd.css",
-    "static/js/main.c5185f2f.js"
+    "static/js/main.c49e926f.js"
   ]
 }
